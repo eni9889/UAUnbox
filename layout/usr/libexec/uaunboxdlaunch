@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Starting UAUnbox"
+exec /usr/libexec/uaunbox

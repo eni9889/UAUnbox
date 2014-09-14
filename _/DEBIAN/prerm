@@ -1,0 +1,3 @@
+#!/bin/sh
+launchctl unload /System/Library/LaunchDaemons/com.unlimapps.uaunboxdlaunch.plist 2>&1 > /dev/null
+exit 0
