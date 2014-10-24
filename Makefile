@@ -1,5 +1,4 @@
 TARGET=iphone:clang:latest:6.0
-THEOS_DEVICE_IP=192.168.1.33
 THEOS_DEVICE_PORT=22
 GO_EASY_ON_ME=1
 export ARCHS = armv7 armv7s arm64
